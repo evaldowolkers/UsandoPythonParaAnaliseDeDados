@@ -1,0 +1,4 @@
+dados = {'estado': ['Minas Gerais', 'Espírito Santo', 'Rio de Janeiro', 'São Paulo'], 'populacao_2000': [17891494, 3097232, 14391282, 37032403], 'populacao_2010': [19595309, 3512672, 15993583, 41252160]}
+
+populacao = {'Minas Gerais': {2000:17891494, 2010:19595309},'Espírito Santo': {2000:3097232, 2010:3512672},
+'Rio de Janeiro': {2000:14391282, 2010:15993583},'São Paulo': {2000:37032403, 2010:41252160}}
