@@ -1,0 +1,5 @@
+NOME      IDADE      SEXO        UF
+EVALDO           41        M        ES
+MARIA   30     F      SP
+JOAO    45   M          RJ
+JOSE 15   M        MG
